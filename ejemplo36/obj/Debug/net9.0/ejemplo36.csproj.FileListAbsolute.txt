@@ -1,0 +1,14 @@
+C:\Users\Programacion\Documents\POO\ejemplo36\bin\Debug\net9.0\ejemplo36.exe
+C:\Users\Programacion\Documents\POO\ejemplo36\bin\Debug\net9.0\ejemplo36.deps.json
+C:\Users\Programacion\Documents\POO\ejemplo36\bin\Debug\net9.0\ejemplo36.runtimeconfig.json
+C:\Users\Programacion\Documents\POO\ejemplo36\bin\Debug\net9.0\ejemplo36.dll
+C:\Users\Programacion\Documents\POO\ejemplo36\bin\Debug\net9.0\ejemplo36.pdb
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.AssemblyInfo.cs
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.dll
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\refint\ejemplo36.dll
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.pdb
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ejemplo36.genruntimeconfig.cache
+C:\Users\Programacion\Documents\POO\ejemplo36\obj\Debug\net9.0\ref\ejemplo36.dll

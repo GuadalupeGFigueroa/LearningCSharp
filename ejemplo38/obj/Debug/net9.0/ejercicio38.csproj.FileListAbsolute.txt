@@ -1,0 +1,14 @@
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.AssemblyInfo.cs
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\POO\ejercicio38\bin\Debug\net9.0\ejercicio38.exe
+C:\Users\Programacion\Documents\POO\ejercicio38\bin\Debug\net9.0\ejercicio38.deps.json
+C:\Users\Programacion\Documents\POO\ejercicio38\bin\Debug\net9.0\ejercicio38.runtimeconfig.json
+C:\Users\Programacion\Documents\POO\ejercicio38\bin\Debug\net9.0\ejercicio38.dll
+C:\Users\Programacion\Documents\POO\ejercicio38\bin\Debug\net9.0\ejercicio38.pdb
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.dll
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\refint\ejercicio38.dll
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.pdb
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ejercicio38.genruntimeconfig.cache
+C:\Users\Programacion\Documents\POO\ejercicio38\obj\Debug\net9.0\ref\ejercicio38.dll

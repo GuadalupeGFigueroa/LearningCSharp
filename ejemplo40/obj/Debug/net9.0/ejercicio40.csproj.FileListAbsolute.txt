@@ -1,0 +1,14 @@
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.AssemblyInfo.cs
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\POO\ejercicio40\bin\Debug\net9.0\ejercicio40.exe
+C:\Users\Programacion\Documents\POO\ejercicio40\bin\Debug\net9.0\ejercicio40.deps.json
+C:\Users\Programacion\Documents\POO\ejercicio40\bin\Debug\net9.0\ejercicio40.runtimeconfig.json
+C:\Users\Programacion\Documents\POO\ejercicio40\bin\Debug\net9.0\ejercicio40.dll
+C:\Users\Programacion\Documents\POO\ejercicio40\bin\Debug\net9.0\ejercicio40.pdb
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.dll
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\refint\ejercicio40.dll
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.pdb
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ejercicio40.genruntimeconfig.cache
+C:\Users\Programacion\Documents\POO\ejercicio40\obj\Debug\net9.0\ref\ejercicio40.dll

@@ -1,0 +1,14 @@
+C:\Users\Programacion\Documents\POO\ejemploLupe\bin\Debug\net9.0\ejemploLupe.exe
+C:\Users\Programacion\Documents\POO\ejemploLupe\bin\Debug\net9.0\ejemploLupe.deps.json
+C:\Users\Programacion\Documents\POO\ejemploLupe\bin\Debug\net9.0\ejemploLupe.runtimeconfig.json
+C:\Users\Programacion\Documents\POO\ejemploLupe\bin\Debug\net9.0\ejemploLupe.dll
+C:\Users\Programacion\Documents\POO\ejemploLupe\bin\Debug\net9.0\ejemploLupe.pdb
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.AssemblyInfo.cs
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.dll
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\refint\ejemploLupe.dll
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.pdb
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ejemploLupe.genruntimeconfig.cache
+C:\Users\Programacion\Documents\POO\ejemploLupe\obj\Debug\net9.0\ref\ejemploLupe.dll
