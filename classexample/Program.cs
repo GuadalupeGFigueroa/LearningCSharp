@@ -18,5 +18,6 @@ class Program
         p1.Age=40;
         Console.WriteLine($"Se llama {p1.getName()}, vive en {p1.Town} y tiene {p1.Age} años.");
         Console.WriteLine(p1.Greatings());
+        Console.WriteLine(p1.Greatings("Pepe"));
     }
 }

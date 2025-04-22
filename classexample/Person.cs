@@ -51,4 +51,9 @@ class Person
         return $"Hola, soy {getName()}, vivo en {town} y tengo {Age} años";
     }
 
+    public string Greatings (string name)
+    {
+        return $"Hola, {name}. Soy {getName()}, vivo en {town} y tengo {Age} años";
+    }
+
 }
