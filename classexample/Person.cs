@@ -2,6 +2,16 @@ namespace classexample;
 
 class Person
 {
+    public Person(string name)
+    {
+        this.name=name; //Constructor con parámetros
+    }
+
+    public Person()
+    {
+        //Constructor vacío
+    }
+
     private string name;
     private string town;
     //private int age; 
@@ -35,5 +45,10 @@ class Person
      // Forma 3: crear propiedad. 
         //Evita definir la variable
     public int Age { get; set; }
+
+    public string Greatings ()
+    {
+        return $"Hola, soy {getName()}, vivo en {town} y tengo {Age} años";
+    }
 
 }
